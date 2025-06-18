@@ -74,7 +74,6 @@ if (isset($_GET['page'])) {
             padding: 15px;
             border-radius: 8px;
             font-family: monospace;
-            white-space: pre-wrap;
             border: 1px solid #ccc;
         }
 
